@@ -169,7 +169,6 @@ public class Supermarket {
         }
     }
 
-
     private static void removerProductosDelInventario(Scanner scanner, Producto... productos) {
         System.out.print("Ingrese el ID del producto que quiere dejar de vender: ");
         int removeId = scanner.nextInt();
