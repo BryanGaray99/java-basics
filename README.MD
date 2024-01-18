@@ -1,1 +1,1 @@
-# Java Basics Bootcamp by Globant: Concepts and Practice
+# Java Basics Bootcamp: Concepts and Practice
